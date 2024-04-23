@@ -7,4 +7,4 @@ I'm a front-end developer with expertise in React, Next.js, and Firebase. I leve
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KyleAbrahamse-blue)](https://www.linkedin.com/in/kyle-abrahamse)
-[![GitHub](https://img.shields.io/github/followers/kyleabrahamse?style=social)](https://github.com/kyleabrahamse)
+
