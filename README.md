@@ -6,6 +6,6 @@ I'm a front-end developer with expertise in React and Typescript. I specialise i
 
 👨‍💻 My portfolio is available at: [https://kylecodesdev.netlify.app/](https://kylecodesdev.netlify.app/)
 
-## Connect with me:
+# Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KyleAbrahamse-blue)](https://www.linkedin.com/in/kyle-abrahamse)
 
