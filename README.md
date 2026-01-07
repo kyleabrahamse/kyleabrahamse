@@ -4,7 +4,7 @@ I'm a front-end developer with full-stack proficiency, specialising in modern we
 
 🔭 I’m currently working on: Learning Laravel for backend services
 
-👨‍💻 My portfolio is available at: [https://kylecodesdev.netlify.app/](https://kylecodes.dev/)
+👨‍💻 My portfolio is available at: [https://kylecodes.dev/](https://kylecodes.dev/)
 
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KyleAbrahamse-blue)](https://www.linkedin.com/in/kyle-abrahamse)
