@@ -4,7 +4,7 @@ I'm a front-end developer with expertise in React and Typescript. I specialise i
 
 🔭 I’m currently working on: Learning Redux and Vitest
 
-👨‍💻 My portfolio is available at: [https://kylecodesdev.netlify.app/](https://kylecodesdev.netlify.app/)
+👨‍💻 My portfolio is available at: [https://kylecodesdev.netlify.app/](https://kylecodes.dev/)
 
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KyleAbrahamse-blue)](https://www.linkedin.com/in/kyle-abrahamse)
